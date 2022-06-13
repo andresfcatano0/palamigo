@@ -31,7 +31,7 @@ export const robots = [
   },
   {
     id: 6,
-    name: 'Dennis Schulist',
+    name: 'Mrs. Dennis Schulist',
     username: 'Leopoldo_Corkery',
     email: 'Karley_Dach@jasper.info'
   },
@@ -43,7 +43,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfs',
+    name: 'Nicholas Runolfsdottir V',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
@@ -55,7 +55,7 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clement DuBuque',
+    name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }
