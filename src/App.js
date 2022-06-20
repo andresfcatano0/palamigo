@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import CardList from "./CardList";
 import SearchBox from "./SearchBox"
+// robots file is not using export default, so destructuring {} must be used because 
+// the file could have multiple exports. 
 import { robots } from "./robots";
 import "./App.css"
 
