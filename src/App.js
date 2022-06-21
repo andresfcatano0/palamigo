@@ -2,11 +2,11 @@ import React, {Component} from 'react';
 import CardList from "./CardList";
 import SearchBox from "./SearchBox"
 // robots file is not using export default, so destructuring {} must be used because 
-// the file could have multiple exports. 
+// the file could have multiple exports.   
 import { robots } from "./robots";
 import "./App.css"
 
-class App extends Component {
+class App extends Component {  
   constructor() {
     super();
     this.state = {
@@ -16,6 +16,7 @@ class App extends Component {
   }
   
   onSearchChange = (event) => {
+    // Updates the state of search field with whatever is typed
     this.setState({searchfield: event.target.value})
   }
   
