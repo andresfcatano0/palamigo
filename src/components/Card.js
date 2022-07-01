@@ -4,7 +4,7 @@ import React from "react";
 // the parameters of the function.
 const Card = ({ name, email, id }) => {
   return (
-    <div className="tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5"> 
+    <div className="tc bg-light-purple dib br3 pa3 ma2 grow bw2 shadow-5"> 
       <img alt="people" src={`https://robohash.org/${id}?set=set2`} />
       <div>
         {/* javascript expressions have to be wrapped in curly brakets */}
