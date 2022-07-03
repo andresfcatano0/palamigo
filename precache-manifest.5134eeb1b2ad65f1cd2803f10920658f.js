@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d5d4f2bbe1e57109c154",
-    "url": "/palamigo/static/css/main.3fe57f41.chunk.css"
+    "revision": "9211b0f544d6f4ece763",
+    "url": "/palamigo/static/css/main.9a79c705.chunk.css"
   },
   {
-    "revision": "d5d4f2bbe1e57109c154",
-    "url": "/palamigo/static/js/main.d5d4f2bb.chunk.js"
+    "revision": "9211b0f544d6f4ece763",
+    "url": "/palamigo/static/js/main.9211b0f5.chunk.js"
   },
   {
     "revision": "f99921d68d7ebc942685",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/palamigo/static/media/ultraviolentbb_reg.acc68e52.woff"
   },
   {
-    "revision": "0d4ac2643f9a2fb07a2bd702a9e9b2e0",
+    "revision": "56723b314c0d51fc7bcdd903a69c209f",
     "url": "/palamigo/index.html"
   }
 ];
