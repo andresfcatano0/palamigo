@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/palamigo/precache-manifest.5134eeb1b2ad65f1cd2803f10920658f.js"
+  "/palamigo/precache-manifest.745331ccef9f51692cf408d7acf22a18.js"
 );
 
 workbox.clientsClaim();

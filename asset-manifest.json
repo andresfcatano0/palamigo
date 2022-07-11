@@ -1,7 +1,7 @@
 {
   "main.css": "/palamigo/static/css/main.9a79c705.chunk.css",
-  "main.js": "/palamigo/static/js/main.9211b0f5.chunk.js",
-  "main.js.map": "/palamigo/static/js/main.9211b0f5.chunk.js.map",
+  "main.js": "/palamigo/static/js/main.9b5e722e.chunk.js",
+  "main.js.map": "/palamigo/static/js/main.9b5e722e.chunk.js.map",
   "static/js/1.f99921d6.chunk.js": "/palamigo/static/js/1.f99921d6.chunk.js",
   "static/js/1.f99921d6.chunk.js.map": "/palamigo/static/js/1.f99921d6.chunk.js.map",
   "static/css/2.79c1c98f.chunk.css": "/palamigo/static/css/2.79c1c98f.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/palamigo/static/js/runtime~main.252403a9.js",
   "runtime~main.js.map": "/palamigo/static/js/runtime~main.252403a9.js.map",
   "static/media/App.css": "/palamigo/static/media/ultraviolentbb_reg.acc68e52.woff",
-  "static/css/2.79c1c98f.chunk.css.map": "/palamigo/static/css/2.79c1c98f.chunk.css.map",
   "static/css/main.9a79c705.chunk.css.map": "/palamigo/static/css/main.9a79c705.chunk.css.map",
+  "static/css/2.79c1c98f.chunk.css.map": "/palamigo/static/css/2.79c1c98f.chunk.css.map",
   "index.html": "/palamigo/index.html",
-  "precache-manifest.5134eeb1b2ad65f1cd2803f10920658f.js": "/palamigo/precache-manifest.5134eeb1b2ad65f1cd2803f10920658f.js",
+  "precache-manifest.745331ccef9f51692cf408d7acf22a18.js": "/palamigo/precache-manifest.745331ccef9f51692cf408d7acf22a18.js",
   "service-worker.js": "/palamigo/service-worker.js"
 }
